@@ -7,8 +7,7 @@ import HomePage from './screens/HomePage';
 
 export default function App() {
   return (
-    // <DatePicker icon={'calendar'} />
-    // <SampleForm />
+
     <HomePage />
   );
 }
